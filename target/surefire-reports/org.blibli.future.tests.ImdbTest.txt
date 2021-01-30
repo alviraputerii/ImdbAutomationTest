@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.blibli.future.tests.ImdbTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 20.834 s <<< FAILURE! - in org.blibli.future.tests.ImdbTest
+org.blibli.future.tests.ImdbTest.getFilmTest on getFilmTest(org.blibli.future.tests.ImdbTest)  Time elapsed: 8.68 s  <<< FAILURE!
+java.lang.AssertionError
+	at org.blibli.future.tests.ImdbTest.getFilmTest(ImdbTest.java:49)
+

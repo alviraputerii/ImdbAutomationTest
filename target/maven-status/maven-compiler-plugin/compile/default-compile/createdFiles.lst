@@ -1,0 +1,9 @@
+org\blibli\future\pages\ImdbSearchResultPage.class
+org\blibli\future\responses\GetFilmResponse.class
+org\blibli\future\responses\GetDirectorResponse.class
+org\blibli\future\request\CreateUserRequest.class
+org\blibli\future\request\GetDirectorNameRequest$GetDirectorNameRequestBuilder.class
+org\blibli\future\responses\CreateUserResponse.class
+org\blibli\future\request\CreateUserRequest$CreateUserRequestBuilder.class
+org\blibli\future\pages\ImdbHomePage.class
+org\blibli\future\request\GetDirectorNameRequest.class
